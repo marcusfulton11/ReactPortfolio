@@ -2,17 +2,17 @@
 export const ProjectList = [
   {
     img: "construction.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
+    title: "Website",
+    description: "Website",
     tech_stack: "Html, Css, Javascript",
     github_url: "https://github.com/marcusfulton11/",
     demo_url: "https://github.com/marcusfulton11/",
   },
   {
     img: "construction.png",
-    title: "Fiber",
+    title: "Website",
     description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
+      "Website",
     tech_stack: "Html, Css, Javascript",
     github_url: "https://github.com/marcusfulton11/",
     demo_url: "https://github.com/marcusfulton11/",
@@ -27,9 +27,9 @@ export const ProjectList = [
   },
   {
     img: "construction.png",
-    title: "Ecommerce website",
+    title: "Website",
     description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
+      "Website",
     tech_stack: "Reactjs, Css",
     github_url: "https://github.com/marcusfulton11/",
     demo_url: "https://github.com/marcusfulton11/",
