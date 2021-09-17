@@ -12,7 +12,7 @@ export const Email = styled.div`
 
   span {
     font-size: 1rem;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 1rem;
   }
 
@@ -25,7 +25,7 @@ export const Email = styled.div`
     flex-direction: row;
     span {
       margin-bottom: 0;
-      font-size: 3rem;
+      font-size: 2.7rem;
     }
   }
 `;

@@ -23,16 +23,16 @@ function Hero() {
       <HeroContainer>
         <HeroWrapper>
           <HeroLeft>
-            <h1>Hi, I'm Gurushesh</h1>
-            <h5>Frontend Developer</h5>
+            <h1>Hi, I'm Marcus</h1>
+            <h5>SoftWare Developer</h5>
             <p>
-              I design and code beautifully simple things, and I love what I do.
+            Based in Scotland. I love building fun and interactive things with code, and I love to learn new technologies as i go.
             </p>
           </HeroLeft>
           <HeroRight>
             <Image
-              src="https://gurupawar.github.io/portfolio/assets/man-svgrepo-com.svg"
-              alt="man-svgrepo"
+              src="bitmoji.png"
+              alt="bitmoji-man"
             />
           </HeroRight>
         </HeroWrapper>
@@ -40,7 +40,7 @@ function Hero() {
           <ScrollLink>
             Scroll down
             <img
-              src="https://raw.githubusercontent.com/gurupawar/portfolio/main/assets/scroll-down.svg"
+              src="scroll-down.svg"
               alt="scroll-down"
             />
           </ScrollLink>

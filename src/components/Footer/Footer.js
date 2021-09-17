@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const FooterSection = styled.div`
-  background-image: url(https://raw.githubusercontent.com/gurupawar/portfolio/main/assets/footer_wave.svg);
+  background-image: url(footer_wave.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -13,6 +13,7 @@ const FooterSection = styled.div`
     position: absolute;
     bottom: 4rem;
     color: #fff;
+    background-color: #787878;
 
     a {
       text-decoration: underline;
@@ -24,13 +25,13 @@ function Footer() {
     <FooterSection>
       <div className="Container">
         <span>
-          Coded with 💙 by{" "}
+          Coded by{" "}
           <a
-            href="https://github.com/gurupawar//"
+            href="https://github.com/marcusfulton11//"
             target="_blank"
             rel="noopener noreferrer"
           >
-            @gurupawar
+            @marcusfulton11
           </a>{" "}
         </span>
       </div>
