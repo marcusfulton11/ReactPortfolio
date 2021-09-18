@@ -56,15 +56,11 @@ export const stackList = [
     name: "Bootstrap",
   },
   {
-    img: "reactlogo.png",
+    img: "reactlogo.svg",
     name: "React.js",
   },
   {
     img: "git.svg",
     name: "Git",
-  },
-  {
-    img: "responsive.svg",
-    name: "Responsive",
   },
 ];

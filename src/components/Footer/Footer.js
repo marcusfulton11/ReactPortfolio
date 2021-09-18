@@ -25,13 +25,13 @@ function Footer() {
     <FooterSection>
       <div className="Container">
         <span>
-          Coded by{" "}
+          {" "}
           <a
             href="https://github.com/marcusfulton11//"
             target="_blank"
             rel="noopener noreferrer"
           >
-            @marcusfulton11
+            
           </a>{" "}
         </span>
       </div>

@@ -70,6 +70,7 @@ video {
   border-radius: 5px;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
+  font-size: 25px;
   font-weight: 400;
   outline: none;
 }
@@ -117,7 +118,7 @@ video {
 
 .AboutBio,
 .tagline2 {
-  text-align: center;
+  text-align: left;
   max-width: 650px;
   margin: 0 auto;
   color: #151418;
