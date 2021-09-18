@@ -1,12 +1,12 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "construction.png",
-    title: "Website",
-    description: "Website",
+    img: "f-n-website.png",
+    title: "F-N-Website",
+    description: "website built for a fake Architect company",
     tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/marcusfulton11/",
-    demo_url: "https://github.com/marcusfulton11/",
+    github_url: "https://github.com/marcusfulton11/F-N-Website",
+    demo_url: "https://f-n-website.vercel.app/",
   },
   {
     img: "construction.png",
