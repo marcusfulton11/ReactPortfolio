@@ -25,15 +25,6 @@ export const ProjectList = [
     github_url: "https://github.com/marcusfulton11/",
     demo_url: "https://github.com/marcusfulton11/",
   },
-  {
-    img: "construction.png",
-    title: "Website",
-    description:
-      "Website",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://github.com/marcusfulton11/",
-    demo_url: "https://github.com/marcusfulton11/",
-  },
 ];
 
 // --------------------------------------- Skills
