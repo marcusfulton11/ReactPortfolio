@@ -10,7 +10,7 @@ function Contact() {
           <Email>
             <a
               className="btn PrimaryBtn"
-              href="mailto:marcusfulton@yahoo.com"
+              href="mailto:MarcusFultonDev@outlook.com"
               target="_blank"
               rel="noopener noreferrer"
             >
