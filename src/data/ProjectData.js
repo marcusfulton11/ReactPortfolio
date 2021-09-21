@@ -20,7 +20,7 @@ export const ProjectList = [
   {
     img: "screenshotPortfolio.png",
     title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
+    description: "Of course i made my own personal portfolio website.",
     tech_stack: "Reactjs, Css",
     github_url: "https://github.com/marcusfulton11/",
     demo_url: "https://github.com/marcusfulton11/",
