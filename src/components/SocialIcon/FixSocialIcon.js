@@ -1,5 +1,5 @@
 import React from "react";
-import { FaLinkedin, FaInstagram, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaRegIdCard } from "react-icons/fa";
 import styled from "styled-components";
 
 const Social = styled.div`
@@ -54,11 +54,11 @@ function FixSocialIcon() {
         </li>
         <li className="item">
           <a
-            href="https://www.instagram.com/marcusfulton94/"
+            href="MarcusFulton.Dev.CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <FaInstagram />
+            <FaRegIdCard />
           </a>
         </li>
       </ul>
