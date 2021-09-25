@@ -93,7 +93,7 @@ function Dropdown({ isOpen, toggle }) {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Resume
+          C.V
         </a>
       </NavBtn>
     </SiderBar>
