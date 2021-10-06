@@ -9,13 +9,13 @@ export const ProjectList = [
     demo_url: "https://f-n-website.vercel.app/",
   },
   {
-    img: "construction.png",
-    title: "Website",
+    img: "Loan-React.png",
+    title: "Loan-Application",
     description:
       "Website",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/marcusfulton11/",
-    demo_url: "https://github.com/marcusfulton11/",
+    tech_stack: "React, CSS, JS, Chakra-Ui, React-Icons, Figma",
+    github_url: "https://github.com/marcusfulton11/Loan-v4",
+    demo_url: "https://loan-v04.vercel.app/",
   },
   {
     img: "screenshotPortfolio.png",
