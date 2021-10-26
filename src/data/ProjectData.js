@@ -21,8 +21,8 @@ export const ProjectList = [
     title: "Breaking Bad Api",
     description: "React App which pulled data from the Breaking Bad Api and manipulated the information to display it on the page.",
     tech_stack: "React, Html, Css, Api",
-    github_url: "https://github.com/marcusfulton11/",
-    demo_url: "https://github.com/marcusfulton11/",
+    github_url: "https://github.com/marcusfulton11/BreakingBadApi",
+    demo_url: "https://breaking-bad-api-eight.vercel.app/",
   },
 ];
 
