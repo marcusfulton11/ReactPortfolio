@@ -22,9 +22,9 @@ function About() {
             Hello! My name is <strong>Marcus Fulton</strong> and my passion is
             building things that live on the internet. My interest in web
             development started in 2019 when 
-            i decided to try and learn C#. At the time i didnt realise that it was possible
+            I decided to try and learn C#. At the time I didnt realise that it was possible
             to learn and teach myself these things online with no degree or classroom needed.
-            I then spoke to my cousin (who happens to be a senior dev), which led me on
+            I then began to spend my time researching, which led me on
             a path to learn HTML, CSS and Javascript. Now over two years down the line my hobby has become
             an obsession that I LOVE doing every day.
 

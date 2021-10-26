@@ -26,7 +26,7 @@ function Hero() {
             <h1>Hi, I'm Marcus</h1>
             <h5>SoftWare Developer</h5>
             <p>
-            Based in Scotland. I love building fun and interactive things with code, and I love to learn new technologies as i go.
+            Based in Scotland. I love building fun and interactive things with code, and I love to learn new technologies along the way.
             </p>
           </HeroLeft>
           <HeroRight>
